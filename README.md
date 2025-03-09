@@ -2,7 +2,7 @@
 
 
 ## App Preview
-<img src="https://github.com/bharathnaik2k/zylentrix_assi/blob/Master/preview.png"  />
+<img src="https://github.com/bharathnaik2k/zylentrix_assi/blob/master/preview.png"  />
 
 ## Video Preview [GDrive Video](https://drive.google.com/file/d/1-4cYYpArjtGkPsPt8CPnBMz1Qp89PDNZ/view?usp=drive_link)
 
